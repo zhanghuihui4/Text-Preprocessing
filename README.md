@@ -9,7 +9,15 @@ Guidance and python code for text preprocessing
 - # Why do we need text preprocessing?
   - The goal is to transform raw text into a format that can be easily understood and analyzed by algorithms or models.
   - Proper preprocessing can significantly enhance the performance and accuracy of subsequent tasks, such as text classification, sentiment analysis, and machine translation.
-   
+
+
+- # Easy-to-use python code (text-clean.py)
+  - **Input**: raw text (online review as instance)
+  - **Output**: preprocessed data
+  - **How to use**:
+    - Open code in pycharm --> Change input and output path in the code --> Run it!
+    - OR download and import it in your own program
+
 - # Text preprocessing techniques
   - **Text cleaning**
     - Lowercasing  
